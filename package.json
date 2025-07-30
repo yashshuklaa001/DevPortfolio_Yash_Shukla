@@ -8,9 +8,9 @@
   "private": true,
   "scripts": {
   "dev": "next dev",
-  "build": "npx next build",
-  "start": "npx next start",
-  "lint": "npx next lint"
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint"
 },
   "dependencies": {
     "@emailjs/browser": "^4.3.1",
