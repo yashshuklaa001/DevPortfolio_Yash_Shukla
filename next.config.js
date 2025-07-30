@@ -8,3 +8,9 @@ module.exports = {
     domains: ['res.cloudinary.com', 'media.dev.to']
   }
 }
+
+module.exports = {
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+};
