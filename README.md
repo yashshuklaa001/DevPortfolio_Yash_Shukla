@@ -3,7 +3,7 @@
 A modern and responsive developer portfolio built using **Next.js 14**, **Tailwind CSS**, and deployed on **Vercel**.
 
 This project is deployed on vercel .
-You can see it here : [link] (https://dev-portfolio-yash-shukla.vercel.app/)
+You can see it here : [link](https://dev-portfolio-yash-shukla.vercel.app/)
 
 ---
 
@@ -76,6 +76,6 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 - Name : Yash Shukla
 - Email : yashshukla18jul@gmail.com
-- portfolioLink : [link] (https://dev-portfolio-yash-shukla.vercel.app/)
+- portfolioLink : [link](https://dev-portfolio-yash-shukla.vercel.app/)
 
 ---
