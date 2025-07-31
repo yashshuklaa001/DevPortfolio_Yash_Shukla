@@ -32,9 +32,9 @@ export const projectsData = [
     description:
       'Built a real-time collaborative code editor where multiple users can write, compile, and execute code together. Supports live editing, I/O sync, and user activity notifications using WebSockets.',
     tools: ['HTML','CSS','JavaScript','React.js','Socket.io','Node.js','Express.js','JudgeAPI','codeMirror','CodeSync'],
-    role: 'Backend Developer',
-    code: 'https://github.com/rampalyadav0001/codeShare-Frontend',
-    demo: 'https://github.com/rampalyadav0001/codeShare-Frontend',
+    role: 'Full Stack Developer',
+    code: 'https://github.com/yashshuklaa001/CodeShare_FrontEnd.git',
+    demo: 'https://code-share-front-end.vercel.app/',
     image: travel,
   }]
 //   {
